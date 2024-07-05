@@ -1,0 +1,20 @@
+{
+  "type": "LinearLayout",
+  "properties": {
+    "orientation": "vertical"
+  },
+  "children": [
+    {
+      "type": "TextView",
+      "properties": {
+        "text": "Hello, World!"
+      }
+    },
+    {
+      "type": "Button",
+      "properties": {
+        "text": "Click Me"
+      }
+    }
+  ]
+}
